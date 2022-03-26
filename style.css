@@ -1,0 +1,71 @@
+@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
+body{
+    font-family: 'Fjalla One', sans-serif;
+    background: linear-gradient(to bottom, #405166 0%,#656f6f 100%);
+}
+ul li a{
+    font-size: 2rem;
+}
+.caja2in2{
+    padding-top: 3rem;
+
+
+}
+.caja2{
+    padding-top:12rem;
+    padding-bottom: 10rem;
+}
+.row div h1{
+    font-size: 4rem;
+    color: #ee9b00;
+    letter-spacing: .05em;
+    text-align: center;
+    text-shadow: 
+    4px 4px 0px #ae2012, 
+    7px 7px 0px rgba(0, 0, 0, 0.2);
+    
+}
+.row div p{
+    font-size: 3rem;
+    color: #468faf;
+    letter-spacing: .05em;
+    text-align: center;
+    text-shadow: 
+    4px 4px 0px #14213d, 
+    7px 7px 0px rgba(0, 0, 0, 0.2);
+}
+.col2 img{
+    width: 20rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.gif{
+    width: 4rem;
+    object-fit: cover;
+}
+.foto2{
+    width: 20rem;
+    height: 15rem;
+}
+.textimg{
+    color: #e5e5e5;
+    font-size: 2rem;
+    background: #000000;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 20px;
+    padding:30px 30px 30px 30px;
+}
+.textbar{
+    padding: 0px 50px 30px 50px;
+    font-size: 2.4rem;
+    color: #ee9b00;
+    letter-spacing: .05em;
+    text-align: center;
+    text-shadow: 
+    4px 4px 0px #14213d, 
+    7px 7px 0px rgba(0, 0, 0, 0.2);
+}
+
+
